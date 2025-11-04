@@ -45,7 +45,7 @@ To improve Vrinda Store sales in 2023:
 
 | Objective | Dashboard | Insights |
 |------------|------------|-----------|
-| ![Objective](./objective.png) | ![Dashboard](./Dashboard.png) | ![Insights](./Insights.png) |
+| ![objective](./objective.png) | ![dashboard](./dashboard.png) | ![insights](./insights.png) |
 
 
 
